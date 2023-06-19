@@ -1,0 +1,103 @@
+{
+  "experiments": [
+    {
+      "id": "1",
+      "name": "Experiment 1",
+      "startDate": "2023-01-01",
+      "endDate": "2023-01-31",
+      "status": "Ongoing",
+      "keyMetrics": [
+        "Conversion Rate",
+        "Bounce Rate"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Experiment 2",
+      "startDate": "2023-02-01",
+      "endDate": "2023-02-28",
+      "status": "Completed",
+      "keyMetrics": [
+        "Click Through Rate",
+        "Page Views"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Experiment 3",
+      "startDate": "2023-03-01",
+      "endDate": "2023-03-31",
+      "status": "Ongoing",
+      "keyMetrics": [
+        "Conversion Rate",
+        "Time on Page"
+      ]
+    },
+    {
+      "startDate": "2023-06-19T03:17:35.401Z",
+      "id": "4",
+      "name": "Experiment 5",
+      "endDate": "2023-06-30",
+      "status": "Ongoing",
+      "keyMetrics": "Bucket 2"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "groupName": "UserGroup 1",
+      "userDetails": [
+        "User1",
+        "User2",
+        "User3"
+      ]
+    },
+    {
+      "id": "2",
+      "groupName": "UserGroup 2",
+      "userDetails": [
+        "User4",
+        "User5",
+        "User6"
+      ]
+    },
+    {
+      "id": "3",
+      "groupName": "UserGroup 3",
+      "userDetails": [
+        "User7",
+        "User5",
+        "User3"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "id": "1",
+      "variantName": "VariantGroup 1",
+      "variantDetails": [
+        "page1",
+        "page2",
+        "page3"
+      ]
+    },
+    {
+      "id": "2",
+      "variantName": "VariantGroup 2",
+      "variantDetails": [
+        "page4",
+        "page5",
+        "page6"
+      ]
+    },
+    {
+      "id": "3",
+      "variantName": "VariantGroup 3",
+      "variantDetails": [
+        "page7",
+        "page5",
+        "page3"
+      ]
+    }
+  ]
+}
